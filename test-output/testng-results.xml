@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4327" started-at="2019-05-06T15:50:26Z" finished-at="2019-05-06T15:50:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4327" started-at="2019-05-06T15:50:26Z" finished-at="2019-05-06T15:50:30Z">
+      <class name="RestAssuredDemoProject.RestAssuredDemoProject.deleteDemo">
+        <test-method status="PASS" signature="demoDeleteMethod()[pri:0, instance:RestAssuredDemoProject.RestAssuredDemoProject.deleteDemo@1593948d]" name="demoDeleteMethod" duration-ms="4248" started-at="2019-05-06T15:50:26Z" finished-at="2019-05-06T15:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoDeleteMethod -->
+      </class> <!-- RestAssuredDemoProject.RestAssuredDemoProject.deleteDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
